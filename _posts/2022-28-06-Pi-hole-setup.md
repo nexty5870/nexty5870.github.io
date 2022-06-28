@@ -1,6 +1,6 @@
 ---
 title: Pi-hole block list from firebug
-date: 2022-06-28 18:55:00 -500
+date: 2022-06-28 00:18:00 -500
 categories: [homelab,kubernetes]
 tags: [pode,kubernetes,pihole,firebug] #tag is always lower case
 ---
