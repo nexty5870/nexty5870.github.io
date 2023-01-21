@@ -1,6 +1,6 @@
 ---
 title: Webflow Kesako?
-date: 2023-01-21 11:47:00 -200
+date: 2023-01-21 11:47:00 +0200
 categories: [Webflow, Nocode]
 tags: [webflow, webdev, ux, nocode] #tag is always lower case
 ---
