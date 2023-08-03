@@ -22,3 +22,7 @@ I'm not yet sure if the idea would be validated however I do see a big potential
 ## Tech Stack
 
 The Tech stack would be my usual T3 §(NextJS / Prisma / tRPC / TailwindCSS) with Supabase as the database. I'm looking forward to learn more about Supabase or maybe planete scale?
+
+---
+
+![S4_blue](https://i.imgur.com/YAgAmLV.png)
