@@ -21,13 +21,15 @@ I'm litteraly just started and reading a lot, I have came across a SEO listing o
 
 ## How to Get Started with Domain Flipping
 
-If you're a novice like am I stick with the article. Getting started with domain flipping is easier than you might think. First, you'll need to find a domain registrar. This is where you'll buy your domains. There are plenty to choose from, like GoDaddy, Namecheap, or even Google. (Porkbun of Dynodot is a also a good alternative)
+If you're a novice like am I stick with the article. Getting started with domain flipping is easier than you might think. First, you'll need to find a domain registrar. This is where you'll buy your domains. There are plenty to choose from, like GoDaddy, Namecheap, or even Google. (Porkbun of Dynodot is a also a good alternative) - You can also use [TLD-list](https://tld-list.com/) (Thank to Oos and his Challenge, you can read about it [here](https://outofsigma.com/mdc/))
 
 The key to successful domain flipping is research. Look for short, catchy domain names. Check out expired domain lists. These are domains that were once registered but have been let go by their previous owners. Sometimes, you can find real gems in these lists.
 
 ## Selling Your Domains
 
 Once you've got your domain, it's time to sell. There are many platforms where you can list your domain for sale, like Sedo or Flippa. It's important to set a realistic price. Remember, you're aiming for a profit, but pricing your domain too high could scare off potential buyers.
+
+[Daaz](https://daaz.com/) was referred to me multiple time as well
 
 ## Overcoming Challenges
 
