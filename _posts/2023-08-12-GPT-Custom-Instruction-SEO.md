@@ -42,6 +42,6 @@ I know have GPT3.5 spinning quality content (avg. 1900word) very easyly.
 
 ## Tips
 
-You can use [Markdown to heml](https://markdowntohtml.com/) which would be helping as well
+You can use [Markdown to html](https://markdowntohtml.com/) which would be helping as well
 
 This article as been inspired by Income stream surfer and I have adapted the prompt
