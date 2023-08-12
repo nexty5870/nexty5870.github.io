@@ -1,6 +1,6 @@
 ---
 title: GPT Customs instruction (GPT3) is out and it's insane!
-date: 2023-08-012 00:18:00 -200
+date: 2023-08-12 00:18:00 -200
 categories: [Side project, business, SEO]
 tags: [SEO, GPT, blog] #tag is always lower case
 ---
